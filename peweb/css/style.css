@@ -1,0 +1,15 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+
+.kategori{
+    transition: background-color 0.3s ease;
+}
+ .kategori:hover{
+  background-color: rgba(160, 160, 160, 0.693);
+  border: radius 10px;
+ }
+
+
+
